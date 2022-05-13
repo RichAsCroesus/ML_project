@@ -2,7 +2,7 @@ from flask import Flask
 from flask import render_template
 from flask import url_for
 import tensorflow as tf
-
+# ?? import tensorflow_hub as hub
 
 # ecport FLASK_APP=process_model.py
 app = Flask(__name__, template_folder='./templates', static_folder='./static')
