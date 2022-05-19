@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+         CNV       0.97      0.98      0.97      7441
+         DME       0.96      0.93      0.94      2269
+      DRUSEN       0.89      0.82      0.85      1723
+      NORMAL       0.95      0.98      0.96      5263
+
+    accuracy                           0.96     16696
+   macro avg       0.94      0.93      0.93     16696
+weighted avg       0.95      0.96      0.95     16696
